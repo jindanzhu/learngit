@@ -1,0 +1,42 @@
+
+
+
+新浪微博
+邮箱登陆：lwbj@pishoncn.com
+密码：pishon123
+
+
+App Key：2040380667
+App Secret：9b330cc8cd7e95c3e81c689541ad3c8b
+
+腾讯 开放平台
+账号：3207047200
+密码：Feng2008
+
+
+APP ID:1104631978   16进制  41D758AA
+APP KEY:Zd5q9KltdJw2NAYK
+
+QQ
+QQ号码：3207047200
+密码：Feng2008
+
+
+
+微信 开放平台
+账号：pishoncn@qq.com
+密码：Feng2008
+
+AppID：wx20762f177ac8eb1f
+AppSecret：0a78f7047f68e7e3164b734b1e3e7790
+
+
+Wechat
+微信号：lessismoreeee
+密码：Feng2008
+
+
+share
+App Key  887b70e614fb
+App Secret  478003a3627ac42d1a8cd832b41350a2
+
